@@ -1,131 +1,114 @@
-## Hi there 👋
 
-<!--
 <div align="center">
 
-<!-- HERO SECTION -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:172554,65:4F46E5,100:06B6D4&height=220&section=header&text=LAURENZ%20AQUINO&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=CODE%20%7C%20CREATE%20%7C%20INNOVATE&descAlignY=58&descSize=17&animation=fadeIn" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:172554,100:6D28D9&text=LAURENZ%20AQUINO&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=BUILD%20%7C%20CREATE%20%7C%20INNOVATE&descAlignY=58&descSize=16" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=BSIT+Student+%F0%9F%8E%93;Aspiring+Full+Stack+Developer+%F0%9F%92%BB;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Turning+Ideas+Into+Reality+%E2%9A%A1" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=650&lines=BSIT+Student+%F0%9F%8E%93;Aspiring+Full+Stack+Developer+%F0%9F%92%BB;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Building+Ideas+Into+Reality+%E2%9A%A1;Always+Learning%2C+Always+Growing" />
 
 <br/>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Profile-0F172A?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/Focus-Development-0891B2?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Location-Philippines-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=4F46E5&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=0891B2&label=FOLLOWERS&logo=github" />
 
 <br/><br/>
 
-*"Small steps every day lead to extraordinary results."*
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 ABOUT ME
+## ⚡ `01 // ABOUT ME`
 
-```yaml
-name: Laurenz Christian Antolin Aquino
-role: BSIT Student
-location: Philippines
-interests:
-  - Web Development
-  - Software Engineering
-  - Database Management
-  - Cloud Computing
-  - Cybersecurity
-goal: Become a skilled and creative developer
-motto: Learn. Build. Improve. Repeat.
-```
+<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-Hello! I'm **Laurenz**, an IT student who enjoys learning how technology works and creating applications that solve real-world problems.
+Hey! I'm **Laurenz**, an IT student passionate about programming, software development, and technology.
 
-I use my school activities and personal projects to improve my programming, troubleshooting, and problem-solving skills. I'm also exploring cloud infrastructure, Linux, Docker, and modern web technologies.
+- 🎓 BSIT Student
+- 💻 Aspiring Full Stack Developer
+- 🌐 Interested in web and application development
+- ☁️ Exploring Cloud Computing and DevOps
+- 🔐 Learning about cybersecurity and system security
+- 🚀 Focused on building useful projects and improving my skills
 
-- 🔭 Working on: Web and software development projects
-- 🌱 Learning: Laravel, PHP, MySQL, Linux, and Docker
-- 🎯 Goal: Build useful applications and become a better developer
-- ⚡ Mindset: Every error is an opportunity to learn
+<br clear="right"/>
 
 ---
 
-## 📊 GITHUB COMMAND CENTER
+## 📊 `02 // GITHUB STATISTICS`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=A78BFA&text_color=E2E8F0&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=E2E8F0&rank_icon=github" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut-vertical&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E2E8F0" />
 
-<br/>
+<br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" />
-
-</div>
-
-## 🌌 CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=38BDF8&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20CODING%20JOURNEY" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" />
 
 </div>
 
 ---
 
-## ⚙️ TECH STACK
+## 🌌 `03 // CONTRIBUTION GRAPH`
 
-### 💻 Languages & Web
+<div align="center">
 
-<p>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=22D3EE&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20CODING%20ACTIVITY" />
+
+</div>
+
+---
+
+## 🧰 `04 // TECH ARSENAL`
+
+**Languages & Web Development**
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,cpp&theme=dark" />
-</p>
 
-### 🧰 Frameworks & Database
+<br/><br/>
 
-<p>
+**Frameworks & Database**
+
 <img src="https://skillicons.dev/icons?i=laravel,mysql,sqlite,bootstrap&theme=dark" />
-</p>
 
-### ☁️ Tools & Infrastructure
+<br/><br/>
 
-<p>
+**Tools & Infrastructure**
+
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode&theme=dark" />
-</p>
+
+</div>
 
 ---
 
-## 🚀 FEATURED PROJECTS
+## 🚀 `05 // PROJECT SHOWCASE`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 Hospital Patient Information System
+### 🏥 Hospital Patient System
 
-A web-based system concept for managing patient information and hospital records.
+A web application project for managing patient information and records.
 
-**Focus**
-- Patient record management
-- Authentication and access control
-- Database integration
+**Technologies**
 
 `Laravel` `PHP` `MySQL`
 
 </td>
 <td width="50%" valign="top">
 
-### 🌊 Flood Alert Notification System
+### 🌊 Flood Alert System
 
-A project concept focused on monitoring flood information and providing timely alerts.
+A project focused on flood information, alert workflows, and user notifications.
 
-**Focus**
-- Alert and notification workflow
-- User authentication
-- Information management
+**Technologies**
 
 `Laravel` `PHP` `MySQL`
 
@@ -134,28 +117,22 @@ A project concept focused on monitoring flood information and providing timely a
 <tr>
 <td width="50%" valign="top">
 
-### ☁️ Cloud Infrastructure Labs
+### ☁️ Cloud & DevOps Labs
 
-Hands-on practice with Linux environments and cloud technologies.
+Hands-on practice with containers, Linux servers, and object storage.
 
-**Focus**
-- Docker containers
-- MinIO object storage
-- Linux administration
+**Technologies**
 
 `Docker` `Linux` `MinIO`
 
 </td>
 <td width="50%" valign="top">
 
-### 📱 Smart Attendance App
+### 📱 Smart Attendance
 
-An Android application concept for attendance management using QR codes.
+An Android application project involving QR code scanning and attendance workflows.
 
-**Focus**
-- QR code scanning
-- Attendance workflow
-- Online and offline modes
+**Technologies**
 
 `Java` `Android Studio`
 
@@ -165,82 +142,66 @@ An Android application concept for attendance management using QR codes.
 
 <div align="center">
 
-**[🔎 EXPLORE MY REPOSITORIES](https://github.com/YOUR_USERNAME?tab=repositories)**
-
-</div>
-
-> Update the project descriptions and links to match the actual contents of your repositories.
-
----
-
-## 🎯 MISSION OBJECTIVES
-
-- [ ] Strengthen my programming fundamentals
-- [ ] Create more complete and functional applications
-- [ ] Improve database design and backend development
-- [ ] Explore cloud computing and DevOps
-- [ ] Learn more about application and system security
-- [ ] Build a portfolio of real-world projects
-
-## 📚 CURRENTLY EXPLORING
-
-<div align="center">
-
-| Area | Learning Focus |
-|:---|:---|
-| 🌐 Web Development | Responsive UI and backend logic |
-| 🗄️ Databases | SQL and database design |
-| ☁️ Cloud Computing | Cloud infrastructure and object storage |
-| 🐳 DevOps | Docker and container management |
-| 🔐 Security | Authentication and secure configuration |
-| 📱 Android | Mobile app development |
+<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-4F46E5?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
+## 🎯 `06 // MISSION OBJECTIVES`
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" />
-
-</div>
-
-> To activate this animation, configure a GitHub Actions workflow that generates the contribution snake and publishes the SVG to the `output` branch.
+- [ ] Master web development fundamentals
+- [ ] Build complete and functional applications
+- [ ] Improve database design and programming skills
+- [ ] Explore cloud infrastructure and automation
+- [ ] Learn more about application security
+- [ ] Develop a strong developer portfolio
 
 ---
 
-## 💬 DEVELOPER PHILOSOPHY
+## 📡 `07 // CURRENTLY LEARNING`
 
 <div align="center">
 
-### `Think it. Code it. Improve it.`
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Cloud-0EA5E9?style=flat-square&logo=icloud&logoColor=white" />
 
-*Great developers are not built in a day. They grow through curiosity, practice, patience, and persistence.*
+</div>
+
+---
+
+## 🐍 `08 // CONTRIBUTION SNAKE`
+
+<div align="center">
+
+<img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 💜 DEVELOPER MINDSET
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Every+expert+was+once+a+beginner.;Keep+building.+Keep+improving.;Your+next+project+could+change+everything." />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:38BDF8,50:8B5CF6,100:EC4899" width="80%" />
+<img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-0891B2?style=for-the-badge&logo=rocket&logoColor=white" />
 
-### ⭐ THANKS FOR VISITING MY PROFILE!
+<br/><br/>
 
-If you find something interesting in my repositories, feel free to explore and connect.
+**Thanks for visiting my profile!** ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,50:172554,100:6D28D9" width="100%" />
+*Let's build something amazing.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,35:4F46E5,70:172554,100:020617&height=130&section=footer&animation=fadeIn" />
 
 </div>
-
-**renz306/renz306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
