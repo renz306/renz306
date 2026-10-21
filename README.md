@@ -1,116 +1,110 @@
 
 <div align="center">
 
-<!-- ITACHI / AKATSUKI RED NEON HEADER -->
+<!-- AKATSUKI RED MOON HEADER -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050505,35:24040A,70:8B0000,100:050505&text=LAURENZ%20AQUINO&fontSize=48&fontColor=FF334D&fontAlignY=38&desc=CODE%20%7C%20CREATE%20%7C%20INNOVATE&descAlignY=58&descSize=17&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050505,20:180309,50:680014,80:240006,100:050505&text=Laurenz%20Christian&fontSize=42&fontColor=FFFFFF&fontAlignY=34&desc=Antolin%20Aquino&descSize=32&descColor=FF334D&descAlignY=55&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=FF334D&center=true&vCenter=true&width=650&lines=BSIT+Student+%F0%9F%8E%93;Aspiring+Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Observe.+Analyze.+Execute.;Turning+Ideas+Into+Reality." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=FF334D&center=true&vCenter=true&width=650&lines=BSIT+STUDENT+%7C+ASPIRING+FULL+STACK+DEVELOPER;TURNING+IDEAS+INTO+DIGITAL+SOLUTIONS;OBSERVE.+ANALYZE.+EXECUTE." />
 
 <br/>
 
-<img src="https://img.shields.io/badge/SHINOBI-OF%20CODE-8B0000?style=for-the-badge&labelColor=080808" />
-<img src="https://img.shields.io/badge/STYLE-AKATSUKI-DC2626?style=for-the-badge&labelColor=080808" />
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=8B0000&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/badge/PHILIPPINES-080808?style=for-the-badge&logo=googlemaps&logoColor=FF334D" />
+<img src="https://img.shields.io/badge/BSIT-STUDENT-080808?style=for-the-badge&logo=academia&logoColor=FF334D" />
+<img src="https://img.shields.io/badge/DEVELOPER-SHINOBI-8B0000?style=for-the-badge&logo=github&logoColor=white" />
 
 <br/><br/>
 
-*"Small steps every day lead to extraordinary results."*
+*"Turning ideas into functional and meaningful digital solutions."*
 
 </div>
 
 ---
 
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:300000,50:FF173D,100:300000" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:350008,50:FF173D,100:350008" />
 </div>
 
-## 🥷 ABOUT ME — THE SHINOBI DEVELOPER
+## 🔴 GITHUB SHINOBI STATS
 
-```yaml
-name: Laurenz Christian Antolin Aquino
-role: BSIT Student
-location: Philippines
+<table>
+<tr>
+<td width="50%" align="center">
 
-interests:
-  - Web Development
-  - Software Engineering
-  - Database Management
-  - Cloud Computing
-  - Cybersecurity
+**⚔️ GitHub Statistics**
 
-goal: Become a skilled and creative developer
-motto: Learn. Build. Improve. Repeat.
-```
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D0A0B&title_color=FF334D&icon_color=FF334D&text_color=F5E7E9&rank_icon=github" width="100%" />
 
-Hello! I'm **Laurenz**, an IT student who enjoys learning how technology works and creating applications that solve real-world problems.
+</td>
+<td width="50%" align="center">
 
-I use my school activities and personal projects to improve my programming, troubleshooting, and problem-solving skills. I'm also exploring cloud infrastructure, Linux, Docker, and modern web technologies.
+**🔥 Coding Streak**
 
-- 🔭 Working on: Web and software development projects
-- 🌱 Learning: Laravel, PHP, MySQL, Linux, and Docker
-- 🎯 Goal: Build useful applications and become a better developer
-- ⚡ Mindset: Every error is an opportunity to learn
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&hide_border=true&background=0D0A0B&ring=FF334D&fire=FF173D&currStreakLabel=FF334D&sideLabels=F5E7E9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=BCA6AA" width="100%" />
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=65&color=0:050505,50:60000D,100:050505&section=header" />
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&label=Followers&color=8B0000" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=8B0000&label=PROFILE+VIEWS" />
 
 </div>
 
-## 👁️ GITHUB COMMAND CENTER
+---
+
+## 👁️ MOST USED LANGUAGES & CONTRIBUTION GRAPH
+
+<table>
+<tr>
+<td width="45%" valign="middle" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&hide_border=true&bg_color=0D0A0B&title_color=FF334D&text_color=F5E7E9" width="100%" />
+
+</td>
+<td width="55%" valign="middle" align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D0A0B&color=FF5268&line=DC2626&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="100%" />
+
+</td>
+</tr>
+</table>
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D0A0B&title_color=FF334D&icon_color=DC2626&text_color=F5E7E9&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut-vertical&hide_border=true&bg_color=0D0A0B&title_color=FF334D&text_color=F5E7E9" />
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&hide_border=true&background=0D0A0B&ring=FF334D&fire=DC2626&currStreakLabel=FF334D&sideLabels=F5E7E9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=BCA6AA" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=55&color=0:050505,50:650010,100:050505&section=header" />
 </div>
 
-## 🔥 CONTRIBUTION ACTIVITY
+## ⚙️ TECH STACK — SHINOBI TOOLS
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D0A0B&color=FF5268&line=DC2626&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20CODING%20JOURNEY" />
+<table>
+<tr>
+<td align="center" width="33%">
 
-</div>
+**Languages & Web**
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,cpp&theme=dark&perline=4" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:300000,50:FF173D,100:300000" />
+</td>
+<td align="center" width="33%">
 
-</div>
+**Frameworks & Database**
 
-## ⚔️ TECH STACK — NINJUTSU TOOLS
+<img src="https://skillicons.dev/icons?i=laravel,mysql,sqlite,bootstrap&theme=dark&perline=3" />
 
-### 💻 Languages & Web
+</td>
+<td align="center" width="33%">
 
-<div align="center">
+**Tools & DevOps**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode&theme=dark&perline=3" />
 
-</div>
-
-### 🧰 Frameworks & Database
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=laravel,mysql,sqlite,bootstrap&theme=dark" />
-
-</div>
-
-### ☁️ Tools & Infrastructure
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode&theme=dark" />
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -124,58 +118,61 @@ I use my school activities and personal projects to improve my programming, trou
 
 ### 🏥 Hospital Patient Information System
 
-A web-based system concept for managing patient information and hospital records.
+A web-based system for managing patient information and hospital records.
 
-**Mission objectives**
 - Patient record management
-- Authentication and access control
+- User authentication
 - Database integration
 
-`Laravel` `PHP` `MySQL`
+<img src="https://img.shields.io/badge/Laravel-8B0000?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-181818?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-181818?style=flat-square&logo=mysql&logoColor=white" />
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌊 Flood Alert Notification System
 
-A project concept focused on flood information and timely alerts.
+A project concept for flood information and alert notifications.
 
-**Mission objectives**
-- Alert and notification workflow
-- User authentication
+- Alert management
+- Authentication and access control
 - Information management
 
-`Laravel` `PHP` `MySQL`
+<img src="https://img.shields.io/badge/Laravel-8B0000?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-181818?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-181818?style=flat-square&logo=mysql&logoColor=white" />
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ☁️ Cloud Infrastructure Labs
+### ☁️ Cloud & DevOps Labs
 
-Hands-on practice with Linux environments and cloud technologies.
+Hands-on practice with Linux, containers, and cloud storage.
 
-**Mission objectives**
-- Docker container deployment
+- Docker deployment
 - MinIO object storage
 - Linux administration
 
-`Docker` `Linux` `MinIO`
+<img src="https://img.shields.io/badge/Docker-181818?style=flat-square&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/Linux-181818?style=flat-square&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/MinIO-8B0000?style=flat-square&logo=minio&logoColor=white" />
 
 </td>
 <td width="50%" valign="top">
 
 ### 📱 Smart Attendance App
 
-An Android application concept for QR-based attendance management.
+An Android app concept for QR-based attendance management.
 
-**Mission objectives**
 - QR code scanning
 - Attendance workflow
 - Online and offline modes
 
-`Java` `Android Studio`
+<img src="https://img.shields.io/badge/Java-181818?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Android_Studio-181818?style=flat-square&logo=androidstudio&logoColor=3DDC84" />
 
 </td>
 </tr>
@@ -184,67 +181,70 @@ An Android application concept for QR-based attendance management.
 <div align="center">
 
 <a href="https://github.com/YOUR_USERNAME?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-8B0000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20MISSIONS-8B0000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
-> Update the project descriptions and links to match your actual repositories.
-
 ---
 
-## 🎯 MISSION OBJECTIVES
+## 🎯 MY GOALS — PATH TO MASTERY
 
-- [ ] Strengthen my programming fundamentals
-- [ ] Create more complete and functional applications
-- [ ] Improve database design and backend development
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚔️ Mission Objectives
+
+- [ ] Graduate with a BSIT degree
+- [ ] Build more real-world projects
+- [ ] Improve programming skills
 - [ ] Explore cloud computing and DevOps
-- [ ] Learn more about application and system security
-- [ ] Build a portfolio of real-world projects
+- [ ] Strengthen application security
+- [ ] Become a skilled developer
 
-## 📚 CURRENTLY EXPLORING
+</td>
+<td width="50%" valign="top">
 
-<div align="center">
+### 🧠 Currently Learning
 
-| Area | Training Focus |
-|:---|:---|
-| 🌐 Web Development | Responsive UI and backend logic |
-| 🗄️ Databases | SQL and database design |
-| ☁️ Cloud Computing | Infrastructure and object storage |
-| 🐳 DevOps | Docker and container management |
-| 🔐 Security | Authentication and secure configuration |
-| 📱 Android | Mobile application development |
+- 🔴 Laravel and advanced PHP
+- 🔴 Cloud computing
+- 🔴 Docker and containers
+- 🔴 Linux system administration
+- 🔴 System security
+- 🔴 UI/UX and mobile development
 
-</div>
-
----
-
-## 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
-
-</div>
-
-> To activate this animation, configure a GitHub Actions workflow that generates the snake SVG and publishes it to the `output` branch.
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:300000,50:FF173D,100:300000" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:350008,50:FF173D,100:350008" />
 
-## 🔴 THE SHINOBI MINDSET
+### 🩸 THE UCHIHA MINDSET
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=FF334D&center=true&vCenter=true&width=600&lines=Stay+focused.+Keep+training.;Turn+every+mistake+into+experience.;Master+your+craft%2C+one+line+at+a+time." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=900&color=FF334D&center=true&vCenter=true&width=600&lines=Discipline+creates+mastery.;Every+mistake+teaches+a+lesson.;Stay+focused.+Keep+evolving." />
 
 <br/>
 
-**THANKS FOR VISITING MY PROFILE!** 🐦‍⬛
+*"Small steps every day lead to big results."*
 
-*Observe carefully. Think deeply. Code wisely.*
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:050505,35:350008,70:8B0000,100:050505&section=footer&animation=twinkling" />
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Profile-8B0000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**THANKS FOR VISITING MY PROFILE!** 🔴
+
+<sub>Observe carefully. Think deeply. Code wisely.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:050505,30:350008,65:8B0000,100:050505&section=footer&animation=twinkling" />
 
 </div>
