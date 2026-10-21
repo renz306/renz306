@@ -4,13 +4,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050505,35:450000,70:990000,100:FF0000&text=LAURENZ%20AQUINO&fontSize=45&fontColor=FFFFFF&fontAlignY=36&desc=「%20BUILD%20%7C%20CREATE%20%7C%20DOMINATE%20」&descAlignY=57&descSize=15&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2200&pause=600&color=FF3333&center=true&vCenter=true&width=650&lines=BSIT+STUDENT+%F0%9F%8E%93;ASPIRING+FULL+STACK+DEVELOPER+%F0%9F%92%BB;CLOUD+%26+DEVOPS+ENTHUSIAST+%E2%98%81%EF%B8%8F;ENTER+THE+WORLD+OF+CODE+%E2%9A%A1;NO+LIMITS.+JUST+LEVELING+UP." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2200&pause=600&color=FF3333&center=true&vCenter=true&width=650&lines=BSIT+STUDENT+%F0%9F%8E%93;ASPIRING+FULL+STACK+DEVELOPER+%F0%9F%92%BB;CLOUD+%26+DEVOPS+ENTHUSIAST+%E2%98%81%EF%B8%8F;ENTER+THE+WORLD+OF+CODE+%E2%9A%A1;NO+LIMITS.+JUST+LEVELING+UP" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-FF0000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/CLASS-BSIT-990000?style=for-the-badge&logo=codeforces&logoColor=white" />
-<img src="https://img.shields.io/badge/LOCATION-PHILIPPINES-330000?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-FF0000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/CLASS-BSIT-990000?style=for-the-badge&logo=codeforces&logoColor=white" /> <img src="https://img.shields.io/badge/LOCATION-PHILIPPINES-330000?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 <br/><br/>
 
@@ -117,6 +115,7 @@ Hello! I'm **Laurenz**, an IT student passionate about technology, programming, 
 A system concept for organizing hospital patient records and information.
 
 **MISSION OBJECTIVES**
+
 - Patient record management
 - Authentication and access control
 - Database integration
@@ -131,6 +130,7 @@ A system concept for organizing hospital patient records and information.
 A project concept for managing flood information and delivering alerts.
 
 **MISSION OBJECTIVES**
+
 - Alert and notification workflow
 - User authentication
 - Information management
@@ -147,6 +147,7 @@ A project concept for managing flood information and delivering alerts.
 Hands-on practice with cloud technologies and Linux environments.
 
 **MISSION OBJECTIVES**
+
 - Docker containers
 - MinIO object storage
 - Linux administration
@@ -161,6 +162,7 @@ Hands-on practice with cloud technologies and Linux environments.
 An Android app concept for attendance tracking through QR codes.
 
 **MISSION OBJECTIVES**
+
 - QR code scanning
 - Attendance management
 - Online and offline modes
@@ -183,12 +185,12 @@ An Android app concept for attendance tracking through QR codes.
 
 ## 🎯 THE GRIND NEVER STOPS
 
-- [ ] Master programming fundamentals
-- [ ] Build complete and functional applications
-- [ ] Improve backend and database development
-- [ ] Explore cloud computing and DevOps
-- [ ] Strengthen application security knowledge
-- [ ] Build a portfolio of real-world projects
+- Master programming fundamentals
+- Build complete and functional applications
+- Improve backend and database development
+- Explore cloud computing and DevOps
+- Strengthen application security knowledge
+- Build a portfolio of real-world projects
 
 ---
 
@@ -197,7 +199,7 @@ An Android app concept for attendance tracking through QR codes.
 <div align="center">
 
 | AREA | OBJECTIVE |
-|:---|:---|
+|---|---|
 | 🔴 Web Development | Responsive interfaces and backend logic |
 | ⚫ Database | SQL and efficient data design |
 | 🔴 Cloud Computing | Infrastructure and object storage |
@@ -235,8 +237,7 @@ An Android app concept for attendance tracking through QR codes.
 
 <br/>
 
-<img src="https://img.shields.io/badge/BUILT%20WITH-PASSION-990000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/POWERED%20BY-COFFEE-111111?style=for-the-badge&logo=buymeacoffee&logoColor=FF0000" />
+<img src="https://img.shields.io/badge/BUILT%20WITH-PASSION-990000?style=for-the-badge" /> <img src="https://img.shields.io/badge/POWERED%20BY-COFFEE-111111?style=for-the-badge&logo=buymeacoffee&logoColor=FF0000" />
 
 <br/><br/>
 
