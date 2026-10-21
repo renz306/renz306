@@ -1,32 +1,45 @@
- <div align="center">
 
-<!-- CRIMSON HERO -->
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050505,35:450000,70:990000,100:FF0000&text=LAURENZ%20AQUINO&fontSize=45&fontColor=FFFFFF&fontAlignY=36&desc=「%20BUILD%20%7C%20CREATE%20%7C%20DOMINATE%20」&descAlignY=57&descSize=15&animation=fadeIn" width="100%" />
+<!-- 🔴 CRIMSON HERO BANNER -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2200&pause=600&color=FF3333&center=true&vCenter=true&width=650&lines=BSIT+STUDENT+%F0%9F%8E%93;ASPIRING+FULL+STACK+DEVELOPER+%F0%9F%92%BB;CLOUD+%26+DEVOPS+ENTHUSIAST+%E2%98%81%EF%B8%8F;ENTER+THE+WORLD+OF+CODE+%E2%9A%A1;NO+LIMITS.+JUST+LEVELING+UP" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050505,35:450000,70:990000,100:FF0000&text=LAURENZ%20AQUINO&fontSize=45&fontColor=FFFFFF&fontAlignY=36&desc=BUILD%20%7C%20CREATE%20%7C%20DOMINATE&descAlignY=57&descSize=16&animation=fadeIn" width="100%" />
+
+<!-- ⚔️ ANIMATED DEVELOPER TITLE -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=600&color=FF2222&center=true&vCenter=true&width=650&lines=BSIT+STUDENT+%F0%9F%8E%93;ASPIRING+FULL+STACK+DEVELOPER;CLOUD+%26+DEVOPS+ENTHUSIAST;ENTER+THE+WORLD+OF+CODE;NEVER+STOP+EVOLVING" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-FF0000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/CLASS-BSIT-990000?style=for-the-badge&logo=codeforces&logoColor=white" /> <img src="https://img.shields.io/badge/LOCATION-PHILIPPINES-330000?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-FF0000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/CLASS-BSIT-990000?style=for-the-badge&logo=codeforces&logoColor=white" />
+<img src="https://img.shields.io/badge/LOCATION-PHILIPPINES-330000?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 <br/><br/>
 
-**━━━━━━━━━━━ ⚔️ ENTER MY DIGITAL WORLD ⚔️ ━━━━━━━━━━━**
+**━━━━━━━━━━ 🔥 DISCIPLINE • POWER • PRECISION 🔥 ━━━━━━━━━━**
 
 *"In the world of code, only those who keep learning evolve."*
 
-<br/>
-
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/OPEN%20MY%20GITHUB-111111?style=for-the-badge&logo=github&logoColor=FF0000" />
+<img src="https://img.shields.io/badge/ENTER%20MY%20GITHUB-111111?style=for-the-badge&logo=github&logoColor=FF0000" />
 </a>
 
 </div>
 
 ---
 
-## 🩸 ABOUT THE DEVELOPER
+<!-- 🩸 ABOUT THE DEVELOPER -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:330000,50:FF0000,100:330000" width="100%" />
+
+# 🔥 ABOUT THE DEVELOPER
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=700&color=FF3333&center=true&vCenter=true&width=550&lines=IDENTITY%3A+LAURENZ+AQUINO;CLASSIFIED%3A+BSIT+STUDENT;MISSION%3A+BECOME+A+DEVELOPER;STATUS%3A+ALWAYS+LEARNING" />
+
+</div>
 
 ```yaml
 name: Laurenz Christian Antolin Aquino
@@ -43,16 +56,24 @@ specialties:
 
 current_mission: Become a skilled developer
 mindset: Learn. Build. Improve. Repeat.
+status: Continuously leveling up
 ```
 
-> **"Every bug has a weakness. Every problem has a solution."**
+> 🔴 *"Every bug has a weakness. Every problem has a solution."*
 
-Hello! I'm **Laurenz**, an IT student passionate about technology, programming, and building applications. I'm continuously improving my skills through school projects, hands-on experiments, and personal development.
+Hello! I'm **Laurenz**, an IT student passionate about technology, programming, and building applications. I use school activities and personal projects to improve my programming, troubleshooting, and problem-solving skills.
 
 - 🔥 **Building:** Web and software development projects
-- 🩸 **Training:** Laravel, PHP, MySQL, Linux, and Docker
-- ⚔️ **Exploring:** Cloud infrastructure, DevOps, and security
-- 🎯 **Ultimate goal:** Become a skilled and creative developer
+- ⚔️ **Learning:** Laravel, PHP, MySQL, Linux, and Docker
+- ☁️ **Exploring:** Cloud computing and DevOps
+- 🎯 **Mission:** Become a skilled and creative developer
+- 💡 **Mindset:** Every error is an opportunity to learn
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:220000,50:FF0000,100:220000" width="85%" />
+
+</div>
 
 ---
 
@@ -76,7 +97,7 @@ Hello! I'm **Laurenz**, an IT student passionate about technology, programming, 
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=080808&color=FF3333&line=FF0000&point=FFFFFF&area=true&area_color=660000&hide_border=true&custom_title=CRIMSON%20CODING%20ACTIVITY" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=080808&color=FF3333&line=FF0000&point=FFFFFF&area=true&hide_border=true&custom_title=CRIMSON%20CODING%20ACTIVITY" />
 
 </div>
 
@@ -104,7 +125,7 @@ Hello! I'm **Laurenz**, an IT student passionate about technology, programming, 
 
 ---
 
-## 🩸 FEATURED MISSIONS
+## 🚀 FEATURED MISSIONS
 
 <table>
 <tr>
@@ -164,7 +185,7 @@ An Android app concept for attendance tracking through QR codes.
 **MISSION OBJECTIVES**
 
 - QR code scanning
-- Attendance management
+- Attendance workflow
 - Online and offline modes
 
 `JAVA` `ANDROID STUDIO`
@@ -181,16 +202,18 @@ An Android app concept for attendance tracking through QR codes.
 
 </div>
 
+> Update the project descriptions and links to match the actual contents of your repositories.
+
 ---
 
 ## 🎯 THE GRIND NEVER STOPS
 
-- Master programming fundamentals
-- Build complete and functional applications
-- Improve backend and database development
-- Explore cloud computing and DevOps
-- Strengthen application security knowledge
-- Build a portfolio of real-world projects
+- [ ] Master programming fundamentals
+- [ ] Build complete and functional applications
+- [ ] Improve backend and database development
+- [ ] Explore cloud computing and DevOps
+- [ ] Strengthen application security knowledge
+- [ ] Build a portfolio of real-world projects
 
 ---
 
@@ -199,7 +222,7 @@ An Android app concept for attendance tracking through QR codes.
 <div align="center">
 
 | AREA | OBJECTIVE |
-|---|---|
+|:---|:---|
 | 🔴 Web Development | Responsive interfaces and backend logic |
 | ⚫ Database | SQL and efficient data design |
 | 🔴 Cloud Computing | Infrastructure and object storage |
@@ -211,7 +234,7 @@ An Android app concept for attendance tracking through QR codes.
 
 ---
 
-## 🐍 THE CONTRIBUTION SNAKE
+## 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -219,7 +242,7 @@ An Android app concept for attendance tracking through QR codes.
 
 </div>
 
-> **Activation required:** Set up a GitHub Actions workflow to generate the snake SVG and publish it to the `output` branch. The animation will not appear until the workflow is configured.
+> **Activation required:** Configure a GitHub Actions workflow to generate the contribution snake and publish the SVG to the `output` branch.
 
 ---
 
@@ -237,14 +260,15 @@ An Android app concept for attendance tracking through QR codes.
 
 <br/>
 
-<img src="https://img.shields.io/badge/BUILT%20WITH-PASSION-990000?style=for-the-badge" /> <img src="https://img.shields.io/badge/POWERED%20BY-COFFEE-111111?style=for-the-badge&logo=buymeacoffee&logoColor=FF0000" />
+<img src="https://img.shields.io/badge/BUILT%20WITH-PASSION-990000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/POWERED%20BY-COFFEE-111111?style=for-the-badge&logo=buymeacoffee&logoColor=FF0000" />
 
 <br/><br/>
 
-### ⭐ THANKS FOR ENTERING MY DOMAIN ⭐
+### ⭐ THANKS FOR VISITING MY PROFILE ⭐
 
 **STAY FOCUSED. KEEP BUILDING. NEVER STOP EVOLVING.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:FF0000,40:660000,75:220000,100:050505" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:FF0000,40:660000,75:220000,100:050505" width="100%" />
 
 </div>
