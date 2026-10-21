@@ -1,114 +1,135 @@
 
 <div align="center">
 
-<!-- HERO SECTION -->
+<!-- AKATSUKI / ITACHI INSPIRED HEADER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:172554,100:6D28D9&text=LAURENZ%20AQUINO&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=BUILD%20%7C%20CREATE%20%7C%20INNOVATE&descAlignY=58&descSize=16" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050505,35:21040A,70:8B0000,100:16050A&text=ITACHI%20UCHIHA&fontSize=48&fontColor=FF334D&fontAlignY=38&desc=THE%20SHINOBI%20DEVELOPER&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=BSIT+Student+%F0%9F%8E%93;Aspiring+Full+Stack+Developer+%F0%9F%92%BB;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Turning+Ideas+Into+Reality+%E2%9A%A1" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=900&color=FF334D&center=true&vCenter=true&width=650&lines=Welcome+to+my+Shinobi+World;BSIT+Student+%7C+Developer;Observe.+Analyze.+Execute.;A+Calm+Mind.+A+Sharp+Eye.+Clean+Code." />
 
 <br/>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Profile-0F172A?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/Focus-Development-0891B2?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Location-Philippines-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/CLAN-UCHIHA-8B0000?style=for-the-badge&labelColor=080808" />
+<img src="https://img.shields.io/badge/STYLE-DARK%20MODE-181818?style=for-the-badge&logo=github&logoColor=FF334D" />
+<img src="https://img.shields.io/badge/MISSION-LEVEL%20UP-B91C1C?style=for-the-badge&labelColor=080808" />
 
 <br/><br/>
 
-*"Small steps every day lead to extraordinary results."*
+*"The strongest skills are built through patience, discipline, and practice."*
 
 </div>
 
 ---
 
-## 👨‍💻 ABOUT ME
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:300000,50:FF173D,100:300000" />
+
+# 🔴 THE SHINOBI PROFILE
+
+</div>
+
+## 🥷 01 // ABOUT THE SHINOBI
 
 ```yaml
 name: Laurenz Christian Antolin Aquino
-role: BSIT Student
-location: Philippines
-interests:
+alias: The Developer Shinobi
+rank: BSIT Student
+village: Philippines
+
+specialties:
   - Web Development
   - Software Engineering
   - Database Management
   - Cloud Computing
-  - Cybersecurity
-goal: Become a skilled and creative developer
-motto: Learn. Build. Improve. Repeat.
+  - System Security
+
+ninja_way: Learn. Practice. Improve.
+mission: Build useful digital solutions.
 ```
 
-Hello! I'm **Laurenz**, an IT student who enjoys learning how technology works and creating applications that solve real-world problems.
+Greetings, fellow developers! I'm **Laurenz**, an IT student learning to turn ideas into functional applications.
 
-I use my school activities and personal projects to improve my programming, troubleshooting, and problem-solving skills. I'm also exploring cloud infrastructure, Linux, Docker, and modern web technologies.
+Like a shinobi mastering new techniques, I continue to improve my programming, debugging, and problem-solving skills through hands-on projects.
 
-- 🔭 Working on: Web and software development projects
-- 🌱 Learning: Laravel, PHP, MySQL, Linux, and Docker
-- 🎯 Goal: Build useful applications and become a better developer
-- ⚡ Mindset: Every error is an opportunity to learn
-
----
-
-## 📊 GITHUB COMMAND CENTER
+- 🔥 Training: PHP, Laravel, Java, and MySQL
+- 👁️ Exploring: Linux, Docker, and Cloud Computing
+- ⚔️ Building: Web systems and application projects
+- 🎯 Mission: Become a skilled and reliable developer
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=A78BFA&text_color=E2E8F0&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut-vertical&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" />
-
-<br/>
-
-<img width="75%" src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=65&color=0:050505,50:510814,100:050505&section=header" />
 
 </div>
 
-## 🌌 CONTRIBUTION ACTIVITY
+## 👁️ 02 // SHARINGAN STATISTICS
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=38BDF8&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20CODING%20JOURNEY" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D0A0B&title_color=FF334D&icon_color=DC2626&text_color=F5E7E9&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&hide_border=true&bg_color=0D0A0B&title_color=FF334D&text_color=F5E7E9" />
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&hide_border=true&background=0D0A0B&ring=FF334D&fire=DC2626&currStreakLabel=FF334D&sideLabels=F5E7E9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=BCA6AA" />
 
 </div>
 
----
+## 🔥 03 // CHAKRA FLOW — CONTRIBUTION ACTIVITY
 
-## ⚙️ TECH STACK
+<div align="center">
 
-### 💻 Languages & Web
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D0A0B&color=FF5268&line=DC2626&point=FFFFFF&area=true&hide_border=true&custom_title=THE%20SHINOBI%20CODING%20JOURNEY" />
 
-<p>
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:300000,50:FF173D,100:300000" />
+
+</div>
+
+## ⚔️ 04 // NINJUTSU — TECHNIQUES & TOOLS
+
+### 💻 Basic Techniques
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,cpp&theme=dark" />
-</p>
 
-### 🧰 Frameworks & Database
+</div>
 
-<p>
+### 🧪 Advanced Techniques
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=laravel,mysql,sqlite,bootstrap&theme=dark" />
-</p>
 
-### ☁️ Tools & Infrastructure
+</div>
 
-<p>
+### 🐦‍⬛ Shinobi Tools
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode&theme=dark" />
-</p>
 
----
+</div>
 
-## 🚀 FEATURED PROJECTS
+## 🩸 05 // MISSION ARCHIVES — PROJECTS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 Hospital Patient Information System
+### 🏥 Hospital Information System
 
-A web-based system concept for managing patient information and hospital records.
+A web-based project for organizing patient records and hospital information.
 
-**Focus**
+**Mission objectives**
 - Patient record management
-- Authentication and access control
+- Authentication and user access
 - Database integration
 
 `Laravel` `PHP` `MySQL`
@@ -116,14 +137,14 @@ A web-based system concept for managing patient information and hospital records
 </td>
 <td width="50%" valign="top">
 
-### 🌊 Flood Alert Notification System
+### 🌊 Flood Alert System
 
-A project concept focused on monitoring flood information and providing timely alerts.
+A project focused on flood information and alert notification workflows.
 
-**Focus**
-- Alert and notification workflow
+**Mission objectives**
+- Alert management
 - User authentication
-- Information management
+- Information handling
 
 `Laravel` `PHP` `MySQL`
 
@@ -132,13 +153,13 @@ A project concept focused on monitoring flood information and providing timely a
 <tr>
 <td width="50%" valign="top">
 
-### ☁️ Cloud Infrastructure Labs
+### ☁️ Cloud Training Grounds
 
-Hands-on practice with Linux environments and cloud technologies.
+Hands-on cloud and Linux practice for deploying and managing services.
 
-**Focus**
-- Docker containers
-- MinIO object storage
+**Mission objectives**
+- Container deployment
+- Object storage
 - Linux administration
 
 `Docker` `Linux` `MinIO`
@@ -146,13 +167,13 @@ Hands-on practice with Linux environments and cloud technologies.
 </td>
 <td width="50%" valign="top">
 
-### 📱 Smart Attendance App
+### 📱 Smart Attendance
 
-An Android application concept for attendance management using QR codes.
+An Android app project for QR-based attendance workflows.
 
-**Focus**
+**Mission objectives**
 - QR code scanning
-- Attendance workflow
+- Attendance management
 - Online and offline modes
 
 `Java` `Android Studio`
@@ -163,68 +184,59 @@ An Android application concept for attendance management using QR codes.
 
 <div align="center">
 
-**[🔎 EXPLORE MY REPOSITORIES](https://github.com/YOUR_USERNAME?tab=repositories)**
+<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+<img src="https://img.shields.io/badge/ENTER%20MISSION%20ARCHIVES-8B0000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
-> Update the project descriptions and links to match the actual contents of your repositories.
+## 🎯 06 // THE PATH TO MASTERY
 
----
+- [ ] Master programming fundamentals
+- [ ] Develop complete and useful applications
+- [ ] Improve database design and backend logic
+- [ ] Explore cloud infrastructure and DevOps
+- [ ] Strengthen system and application security
+- [ ] Build a strong development portfolio
 
-## 🎯 MISSION OBJECTIVES
-
-- [ ] Strengthen my programming fundamentals
-- [ ] Create more complete and functional applications
-- [ ] Improve database design and backend development
-- [ ] Explore cloud computing and DevOps
-- [ ] Learn more about application and system security
-- [ ] Build a portfolio of real-world projects
-
-## 📚 CURRENTLY EXPLORING
+## 🧠 07 // CURRENT TRAINING
 
 <div align="center">
 
-| Area | Learning Focus |
-|:---|:---|
-| 🌐 Web Development | Responsive UI and backend logic |
-| 🗄️ Databases | SQL and database design |
-| ☁️ Cloud Computing | Cloud infrastructure and object storage |
-| 🐳 DevOps | Docker and container management |
-| 🔐 Security | Authentication and secure configuration |
-| 📱 Android | Mobile app development |
+<img src="https://img.shields.io/badge/LARAVEL-B91C1C?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-6D5BA6?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MYSQL-2563EB?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/DOCKER-0EA5E9?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/LINUX-525252?style=for-the-badge&logo=linux&logoColor=white" />
 
 </div>
 
----
-
-## 🐍 CONTRIBUTION SNAKE
+## 🐍 08 // SHINOBI ACTIVITY SNAKE
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" />
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
 
 </div>
 
-> To activate this animation, configure a GitHub Actions workflow that generates the contribution snake and publishes the SVG to the `output` branch.
+> To activate this feature, configure a GitHub Actions workflow that generates the snake animation and publishes it to the `output` branch.
 
 ---
 
-## 💬 DEVELOPER PHILOSOPHY
-
 <div align="center">
 
-### `Think it. Code it. Improve it.`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:300000,50:FF173D,100:300000" />
 
-*Great developers are not built in a day. They grow through curiosity, practice, patience, and persistence.*
+### 🔴 THE UCHIHA MINDSET
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1000&color=FF334D&center=true&vCenter=true&width=600&lines=Stay+focused.+Keep+training.;Turn+every+mistake+into+experience.;Master+your+craft%2C+one+line+at+a+time." />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:38BDF8,50:8B5CF6,100:EC4899" width="80%" />
+**THANKS FOR VISITING MY SHINOBI PROFILE** 🐦‍⬛
 
-### ⭐ THANKS FOR VISITING MY PROFILE!
+*Observe carefully. Think deeply. Code wisely.*
 
-If you find something interesting in my repositories, feel free to explore and connect.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,50:172554,100:6D28D9" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:050505,35:4A000B,70:8B0000,100:050505&section=footer&animation=twinkling" />
 
 </div>
